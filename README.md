@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZhN3Noa29mYTNpNWZmNHA0dG4zNXRkb2FpMW80aXd4cW1pbzNwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UKoX7XL7Z2FyA/giphy.gif" width="350">
+</p>
+
 <h1 align="center">✨ Hi 👋 I'm Ali</h1>
-<h3 align="center">AI  Developer / Backend Developer • .NET Engineer • Deep Learning Learner</h3>
+<h3 align="center">AI-Focused Backend Developer • .NET Engineer • Deep Learning Learner</h3>
 
 ---
 
@@ -89,6 +93,12 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=AIilK&show_icons=true&theme=tokyonight"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIilK&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 📫 Contact Me  
+- 📧 **Email:** alirezailkhani84@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/alireza-ilkhani-81a9b9290 
 
 ---
 
