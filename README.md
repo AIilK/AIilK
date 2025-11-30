@@ -1,41 +1,42 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">AI Developer / Backend Developer | .NET Engineer | Deep Learning Learner</h3>
+<h1 align="center">✨ Hi 👋 I'm Ali</h1>
+<h3 align="center">AI  Developer / Backend Developer • .NET Engineer • Deep Learning Learner</h3>
 
 ---
 
 ## 🚀 About Me
 - Backend developer in the **insurance industry**
-- Building **productivity & automation tools**
-- Designing an **ERP system in C# / .NET**, inspired by Aludata
-- Deep learning enthusiast with focus on:
+- Building productivity & automation tools  
+- Designing **ERP systems in C# / .NET** inspired by Aludata  
+- Deep learning enthusiast focusing on:
   - Neural networks  
-  - Computer Vision  
-  - AI automation
-- 🔥 Recently started learning **PyTorch**  
-  Working on training custom models & experimenting with real datasets
-- Goal: Become an **AI Engineer** and migrate through technical expertise  
-- Strong interest in combining **AI + Enterprise software** (ERP + ML + automation)
+  - Computer vision  
+  - AI automation  
+- Recently started working with **PyTorch** to build and train custom models  
+- Goal: specialize in **AI engineering** and migrate through advanced expertise  
+- Strong interest in blending **AI + enterprise software** (ERP + ML + automation)
 
 ---
 
 ## 🧠 AI & Machine Learning Skills
 
-### 🔥 Core AI Stack  
+### 🔥 Core Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-### 📌 What I’m Learning
-- PyTorch beginner → intermediate  
-- Training neural networks (CNNs, MLPs)
-- Loss functions & optimization  
-- Dataset preparation & augmentation  
-- CV tasks: classification, segmentation, OCR experiments  
-- Deploying AI models into backend services (.NET + ONNX Runtime)
+### 📌 Experience & Learning Path
+- PyTorch beginner → intermediate (training models, datasets, transforms)  
+- Experience with preprocessing, data pipelines & model evaluation  
+- Understanding neural networks, activation functions & loss functions  
+- Exploring CV topics:
+  - Classification  
+  - Segmentation  
+  - OCR pipelines  
+- Working on integrating **AI models with .NET backend services**
 
 ---
 
-## 🛠️ Backend & Engineering Stack
+## 🛠 Backend & Engineering Stack
 
 ### Backend  
 <p>
@@ -56,43 +57,39 @@
 
 ## 📂 Featured Projects
 
-### 🤖 **AI / Deep Learning**
-- Building custom PyTorch models  
+### 🤖 AI / Deep Learning
+- Learning PyTorch with real-world goals  
+- Training custom CNN models  
 - Model training, validation & loss analysis  
-- Image classification experiments  
-- Creating a small **OCR-like pipeline** using PyTorch + OpenCV  
-- Working on integrating AI models with .NET backend services  
+- Image processing experiments  
+- A small **OCR-like pipeline** using PyTorch + OpenCV  
+- Working on .NET integration using **ONNX Runtime**
 
 ---
 
-### 🏭 **ERP System (C# / .NET)**
-- ERP similar to **Aludata**  
+### 🏭 ERP System (C# / .NET)
+- Inspired by **Aludata**  
 - Modules: Production, Warehouse, Finance, HR  
 - Clean Architecture + DDD  
-- Future plan: Add AI-powered prediction modules (forecasting, anomaly detection)
+- Planned AI modules:
+  - Sales forecasting  
+  - Anomaly detection  
 
 ---
 
-### 🛡️ **Insurance Workflow Automation**
-- Internal automation tools using **ASP.NET Core**  
-- Reducing repetitive work for employees  
-- Real-world production-level application
+### 🛡 Insurance Workflow Automation
+- Internal automation tools using ASP.NET Core  
+- Replacing slow manual processes  
+- Used in real workflow environments  
 
 ---
 
 ## 📊 GitHub Stats  
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AIilK&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIilK&layout=compact&theme=radical" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AIilK&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIilK&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-- Email: alirezailkhani84@gmail.com  
-- LinkedIn: www.linkedin.com/in/alireza-ilkhani-81a9b9290
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile — The AI journey has just begun!</h3>
+<h3 align="center">⭐ Thanks for visiting — The AI journey has just begun!</h3>
